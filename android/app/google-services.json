@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855549812972",
+    "project_id": "indras-movie-project-b0f98",
+    "storage_bucket": "indras-movie-project-b0f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855549812972:android:eb42ac6264491be57ac5c9",
+        "android_client_info": {
+          "package_name": "com.drakemd.moviedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855549812972-ear7cf2p1e8o7qd6tcap9speoif6ghfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drakemd.moviedb",
+            "certificate_hash": "02a796bf08fd47524efb4fb29ffea97e40a24da0"
+          }
+        },
+        {
+          "client_id": "855549812972-lk8trju8oht7ers08hnr55vau67eaf2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2--pEmaQqlJmMVluN3kKaKwerZHz2FbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855549812972-lk8trju8oht7ers08hnr55vau67eaf2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
